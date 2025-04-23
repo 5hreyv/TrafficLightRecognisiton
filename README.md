@@ -24,5 +24,5 @@ This Python project uses **OpenCV** to detect real-world traffic lights (Red, Ye
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/traffic-light-detection.git
+git clone https://github.com/5hreyv/TrafficLightRecognisiton.git
 cd traffic-light-detection
